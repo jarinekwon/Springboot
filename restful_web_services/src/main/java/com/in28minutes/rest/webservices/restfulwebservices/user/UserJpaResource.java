@@ -40,9 +40,7 @@ public class UserJpaResource {
 	}
 	
 	@GetMapping("/jpa/users/{id}")
-//	public User retrieveUsers(@PathVariable int id) {
 	public EntityModel<User> retrieveUsers(@PathVariable int id) {
-//		User user = service.findOne(id);
 		Optional<User> user = repository.findById(id);
 		
 		if (user.isEmpty()) {
