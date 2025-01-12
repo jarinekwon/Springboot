@@ -1,0 +1,2 @@
+spring.application.name=restful_web_services
+#logging.level.org.springframework=debug

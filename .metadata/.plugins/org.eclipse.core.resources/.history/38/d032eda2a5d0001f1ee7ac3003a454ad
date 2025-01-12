@@ -1,0 +1,6 @@
+spring.application.name=restful_web_services
+#logging.level.org.springframework=debug
+logging.level.org.springframework=info
+management.endpoints.web.exposure.include=*
+management.endpoint.env.show-values=ALWAYS
+spring.h2.console.enabled=true

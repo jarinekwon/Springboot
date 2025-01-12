@@ -1,0 +1,8 @@
+package com.in38minutes.rest.webservices.restfulwebservices;
+
+public class Snippet {
+	public static void main(String[] args) {
+		path = "/hello-world"
+	}
+}
+
