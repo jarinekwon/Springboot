@@ -53,4 +53,7 @@
     <fullyQualifiedTypeName name="jakarta.persistence.FetchType"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.Size"/>
     <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservices.user.Post"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
 </qualifiedTypeNameHistroy>
