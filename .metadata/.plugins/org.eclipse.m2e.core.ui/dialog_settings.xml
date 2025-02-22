@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\dev\Springboot\work_springboot\currency_exchange_service"/>
+			<item value="C:\dev\Springboot\work_springboot\spring_cloud_config_server"/>
 			<item value="C:\dev\Springboot\work_springboot\limits_service"/>
 			<item value="C:\dev\Springboot\work_springboot\restful_web_services"/>
 		</list>
